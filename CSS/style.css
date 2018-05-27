@@ -1,0 +1,41 @@
+body{
+  color:#666;
+  text-align:center;
+  font-family: sans-serif;
+  background-color: black;
+  font-size: .9em;
+  font-weight: 100;
+  border: none;
+  padding: 25px 50px;
+  margin: 0;
+
+}
+h1{
+  font-style: normal;
+  font-weight: 100;
+  font-family: Brush Script MT;
+  font-size: 5em;
+  border: inset;
+  border-bottom: solid;
+  border-width: thick;
+  background-color: white;
+}
+
+h2{
+
+}
+.top{
+    background-color: #f2f2f2;
+    font-weight: 100;
+    padding: 0 0 0 0 ;
+    margin: 0 0 0 0;
+    border: none;
+    font-weight: 100;
+}
+.middle{
+  background-color: #e6e6e6;
+}
+.bottom{
+  background-color: #d9d9d9;
+
+}
