@@ -9,8 +9,8 @@ setInterval(function(){
     if (isRed){
         h1.style.background ="white";
     } else {
-        h1.style.background ="red";
+        h1.style.background ="black";
     }
     isRed= !isRed;
-}, 100);
+}, 1000);
 //h1.style.color = "blue";
